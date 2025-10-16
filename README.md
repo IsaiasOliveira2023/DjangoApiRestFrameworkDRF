@@ -53,3 +53,5 @@ POST	/api/materias/	Cria uma nova matéria.
 GET	/api/materias/{id}/	Retorna os detalhes de uma matéria específica.
 PUT/PATCH	/api/materias/{id}/	Atualiza uma matéria existente.
 DELETE	/api/materias/{id}/	Remove uma matéria.
+
+Link de acesso ao DRF http://127.0.0.1:8000/api/materias/
